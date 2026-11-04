@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bin Wang — Writing</title>
+    <link>https://binwang.xyz/writing</link>
+    <description>Essays and notes by Bin Wang.</description>
+    <language>en-us</language>
+    
+    <item>
+      <title><![CDATA[Full Circle: Academic Conferences Will Go Back to Being Insider Gatherings]]></title>
+      <link>https://binwang.xyz/writing/2026-10-conferences-full-circle</link>
+      <guid isPermaLink="true">https://binwang.xyz/writing/2026-10-conferences-full-circle</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Submissions have grown from hundreds to tens of thousands. Conferences no longer disseminate or filter well, and certification is running on inertia. Strip those away and what remains is what a conference was at the start, a group of people meeting.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Five Years in Singapore: Why I Moved from the United States to Singapore]]></title>
+      <link>https://binwang.xyz/writing/2026-08-five-years-in-singapore</link>
+      <guid isPermaLink="true">https://binwang.xyz/writing/2026-08-five-years-in-singapore</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[How research, career choices, a relationship, immigration, and chance all played a part in my decision to leave the United States for a postdoc in a country I had never visited.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[I've Stopped Optimizing for Academic Papers]]></title>
+      <link>https://binwang.xyz/writing/2026-04-after-60-papers</link>
+      <guid isPermaLink="true">https://binwang.xyz/writing/2026-04-after-60-papers</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Why I've stopped optimizing for academic papers, and what writing them all those years taught me.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[From MATLAB to Vibe Coding]]></title>
+      <link>https://binwang.xyz/writing/2026-04-stack</link>
+      <guid isPermaLink="true">https://binwang.xyz/writing/2026-04-stack</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[My 2026 dev stack is roughly half the size it was two years ago — and the one habit I quietly miss.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Agent Skills: The Missing Layer]]></title>
+      <link>https://binwang.xyz/writing/2026-01-agent-skills</link>
+      <guid isPermaLink="true">https://binwang.xyz/writing/2026-01-agent-skills</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[How Agent Skills help AI stay professional and controllable without blowing up the context window.]]></description>
+    </item>
+  </channel>
+</rss>
